@@ -1,4 +1,4 @@
-# ch 2.2.2 test.py
+# ch 2.2.2 test.py additional
 
 def test():
     pass
